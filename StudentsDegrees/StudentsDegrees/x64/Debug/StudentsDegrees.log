@@ -1,0 +1,3 @@
+﻿  StudentsDegrees.cpp
+C:\Users\Shafiq Almatri\Desktop\StudentsDegrees\StudentsDegrees\StudentsDegrees.cpp(59,14): warning C4101: 'f': unreferenced local variable
+  StudentsDegrees.vcxproj -> C:\Users\Shafiq Almatri\Desktop\StudentsDegrees\x64\Debug\StudentsDegrees.exe
